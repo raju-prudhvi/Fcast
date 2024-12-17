@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Professional Services Agreement</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            padding: 20px;
+            background-color: #f9f9f9;
+        }
+        h1 {
+            text-align: center;
+        }
+        p {
+            margin-bottom: 1em;
+        }
+    </style>
+</head>
+<body>
+    <h1>Professional Services Agreement</h1>
+    <p><strong>Date:</strong> 12/1/2024</p>
+
+    <p>This Professional Services Agreement (“Agreement”) is by and between the entity identified in a Work Order referencing this Agreement (the “Customer”) and Funnelcast LLC (“Funnelcast”). The parties agree as follows:</p>
+
+    <ol>
+        <li>Funnelcast will provide the consulting services as described in a Work Order.</li>
+        <li>
+            Customer shall pay Funnelcast the fees specified in accordance with each Work Order. Except as otherwise specified in a Work Order:
+            <ul>
+                <li>(a) Funnelcast will bill Customer for actual out-of-pocket expenses incurred including travel, parking, and other incidental expenses.</li>
+                <li>(b) Funnelcast will send monthly invoices to Customer, and Customer agrees to provide payment upon receipt of invoices.</li>
+            </ul>
+            Unless otherwise stated, Funnelcast’s fees do not include any taxes, levies, duties, or similar governmental assessments of any nature, including but not limited to value-added, sales, use or withholding taxes, assessable by any local, state, federal or foreign jurisdiction. All such taxes are the responsibility of the Customer; provided that Funnelcast (and not Customer) is solely responsible for taxes assessable against Funnelcast based on its income, property, and employees.
+        </li>
+        <li>Both parties will have the right to publicly refer to the relationship created by this Agreement and to use each other’s names and/or trademarks in advertisements and public relations and marketing materials, subject to reasonable trademark usage guidelines.</li>
+        <li>
+            This Agreement shall commence on the date of execution of a Work Order under this Agreement (the “Commencement Date”) and continue until completion of the Services hereunder. Either party will have the right to terminate this Agreement immediately by delivery of written notice to the other party if the other party is in material breach of any provision of this Agreement and has failed to cure that breach within thirty (30) calendar days after receiving written notice of that breach.
+        </li>
+        <li>Funnelcast warrants that services performed hereunder will be performed in a reasonable and workmanlike manner consistent with generally accepted industry standards.</li>
+        <li>REGARDLESS OF WHETHER ANY REMEDY SET FORTH IN THIS AGREEMENT FAILS OF ITS ESSENTIAL PURPOSE, IN NO EVENT WILL FUNNELCAST BE LIABLE FOR ANY INDIRECT, SPECIAL, PUNITIVE, CONSEQUENTIAL, OR INCIDENTAL DAMAGES ARISING OUT OF THIS AGREEMENT EVEN IF CUSTOMER HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.</li>
+        <li>All notices required under this Agreement must be in writing and sent via first-class mail or email transmission.</li>
+    </ol>
+
+    <p>This Agreement shall be governed by and construed in accordance with the laws of the Commonwealth of Massachusetts. It constitutes the entire agreement between the parties regarding its subject matter.</p>
+</body>
+</html>
